@@ -34,6 +34,9 @@ public class StudentDB {
 	  }
 	  System.out.println("percentage:"+percent+"\n"+"Grade:"+grade);
 	}
+	
+// 	Main function added
+	
     public static void main(String args[]) {
     	System.out.println("Enter count of Students:");
     	int cnt=s1.nextInt();
