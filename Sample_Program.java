@@ -1,4 +1,7 @@
 import java.util.Scanner;
+
+// Create class
+
 public class StudentDB {
 	static Scanner s1=new Scanner(System.in);
 	int rollno,total=0;
