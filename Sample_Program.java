@@ -32,6 +32,7 @@ public class StudentDB {
 	  }else if(percent>0 && percent<40) {
 		  grade="Fail!";
 	  }
+// 		Print statement added 
 	  System.out.println("percentage:"+percent+"\n"+"Grade:"+grade);
 	}
 	
